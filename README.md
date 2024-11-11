@@ -19,4 +19,3 @@ This project is a simple notepad application developed using the Qt framework an
 1. Clone this repository:
    ```bash
    git clone https://github.com/RaminKhosravii/notepad-app.git
-   cd notepad-app
